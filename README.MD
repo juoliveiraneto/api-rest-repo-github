@@ -6,6 +6,7 @@ Essa é uma api que pode ser usada por qualquer pessoa para listar os repositór
 * Spring-Boot
 * Spring-security-jwt
 * Java 1.8 ou superior
+* Docker
 
 ## Ferramentas
 * Maven 4.0
