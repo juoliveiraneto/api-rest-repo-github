@@ -1,4 +1,4 @@
-# Repositórios Github Api
+# Api Repositórios Github
 
 Essa é uma api que pode ser usada por qualquer pessoa para listar os repositórios existentes do github para um determinado usuário.
 
