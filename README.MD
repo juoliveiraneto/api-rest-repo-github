@@ -13,4 +13,4 @@ Essa é uma api que pode ser usada por qualquer pessoa para listar os repositór
 * IDE - Intellij Ultimate
 
 ## Documentação do Projeto
-[Documentação da API] (https://github.com/juoliveiraneto/api-rest-repo-github/wiki)
+[Documentação da API](https://github.com/juoliveiraneto/api-rest-repo-github/wiki)
